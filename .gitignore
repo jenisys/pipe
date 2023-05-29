@@ -19,4 +19,8 @@ pip-log.txt
 .tox
 .mypy_cache/
 .venv/
-.envrc
+
+# -- MINE-BRANCH CHANGES:
+# DISABLED: .envrc
+.direnv
+
